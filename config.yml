@@ -1,20 +1,20 @@
 # title of website
-title: 我的导航站
+title: LV
 
 # description of website
-description: x1ah's navigation site
+description: arieslj's navigation site
 
 # favicon of website
-favicon: "https://github.com/x1ah.png?size=40"
+favicon: "https://github.com/arieslj.png?size=40"
 
 # your website url
-url: https://x1ah.github.io/nav/
+url: https://lv.xxx
 
 # github profile url
-github: https://github.com/x1ah/nav
+github: https://github.com/arieslj/load
 
 # footer message
-footer: © 2021-2021 @x1ah
+footer: © 2021-2021 @arieslj
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -101,32 +101,20 @@ content:
         - name: Reddit Rust 频道
           description: Reddit Rust 专区
           url: https://www.reddit.com/r/rust/
-    - name: 图片图集
+    - name: 公司网站
       sites:
-        - name: Unsplash
-          description: Beautiful Free Images & Pictures
-          url: https://unsplash.com/
-        - name: 花瓣网
-          description: 图片采集，图片分享
-          url: https://huaban.com/discovery/
-        - name: Pinterest
-          description: 世界上最大的图片社交分享网站
-          url: https://www.pinterest.com/
-        - name: Pixiv
-          description: 动漫图片，插画交流
-          url: https://www.pixiv.net/
-        - name: Food Pictures
-          description: 专门分享美食类照片
-          url: https://www.foodiesfeed.com/
-        - name: 谷歌艺术&文化
-          description: 谷歌出品，提供大量高清艺术作品和历史人物、事件的高清图片
-          url: https://artsandculture.google.com/explore
-        - name: 500px
-          description: 专业摄影交流，图片均由专业摄影师上传
-          url: https://500px.com/popular
-        - name: Pexels
-          description: 照片由专人挑选而来
-          url: https://www.pexels.com/zh-cn/
+        - name: 鹿由
+          description: 尚德企业OA
+          url: https://im.sunlands.com
+        - name: EHR
+          description: 尚德人力系统
+          url: https://ehr.sunlands.com
+        - name: 利维坦
+          description: 傻逼系统
+          url: https://bf.sunlands.com/opportunity
+        - name: 大鱼
+          description: 贼难用的系统
+          url: https://bf.ministudy.com/exception
     - name: 图床网站
       sites:
         - name: Imgur
