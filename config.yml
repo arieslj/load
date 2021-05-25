@@ -98,9 +98,15 @@ content:
         - name: 热门微博
           description: 热门微博，微博热搜
           url: https://weibo.com/hot
-        - name: Reddit Rust 频道
-          description: Reddit Rust 专区
-          url: https://www.reddit.com/r/rust/
+        - name: AnyKnew
+          description: 全网热点
+          url: https://www.anyknew.com/#/
+        - name: 后续
+          description: 有记忆的新闻，持续追踪热点新闻
+          url: https://houxu.app/
+        - name: 知微事见
+          description: 互联网社会热点聚合平台
+          url: https://ef.zhiweidata.com/          
     - name: 公司网站
       sites:
         - name: 鹿由
