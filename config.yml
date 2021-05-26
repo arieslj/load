@@ -67,14 +67,14 @@ content:
         - name: Google Analytics
           description: Google Analytics 分析
           url: https://analytics.google.com/analytics/web/
-    - name: 技术工具
+    - name: 网盘工具
       sites:
-        - name: misaka ping
-          description: 多点 Ping 工具
-          url: https://ping.sx/ping
-        - name: JSON Editor Online
-          description: JSON 工具，可以对比两个 JSON，以及分享 JSON 片段
-          url: https://jsoneditoronline.org/
+        - name: 天翼云解析
+          description: 天翼云直链解析
+          url: https://189.ly93.cc/
+        - name: 天翼云下载
+          description: 天翼云盘免登录下载
+          url: https://api.ezini.vip/
         - name: Excalidraw
           description: 流程图工具，可以画手写风格的图表
           url: https://excalidraw.com/
