@@ -32,6 +32,7 @@ webstack:
       - baidu
       - bilibili
       - zhihu
+      - biying
 
 # Google analytics
 google_analytics: G-EXE1PJ8CR2
@@ -49,12 +50,6 @@ content:
         - name: JSON Editor Online
           description: JSON 工具，可以对比两个 JSON，以及分享 JSON 片段
           url: https://jsoneditoronline.org/
-        - name: Excalidraw
-          description: 流程图工具，可以画手写风格的图表
-          url: https://excalidraw.com/
-        - name: Lobsters
-          description: 技术论坛
-          url: https://lobste.rs/
         - name: 斗鱼
           description: 直播平台
           url: https://www.douyu.com/
@@ -121,6 +116,9 @@ content:
         - name: 大鱼
           description: 贼难用的系统
           url: https://bf.ministudy.com/exception
+        - name: 鹰眼
+          description: 傻逼到极点的系统
+          url: http://172.16.116.70:35353/
     - name: 图床网站
       sites:
         - name: Imgur
