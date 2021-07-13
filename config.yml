@@ -53,15 +53,9 @@ content:
         - name: 斗鱼
           description: 直播平台
           url: https://www.douyu.com/
-        - name: 小霸王
-          description: 在线小霸王游戏机
-          url: https://www.yikm.net/
         - name: 需要我帮你百度一下吗
           description: 需要我帮你百度一下吗生成器
           url: https://when.run/lmbdfy.html
-        - name: Google Analytics
-          description: Google Analytics 分析
-          url: https://analytics.google.com/analytics/web/
     - name: 网盘工具
       sites:
         - name: 天翼云解析
@@ -76,6 +70,9 @@ content:
         - name: ip.sb
           description: IP 获取
           url: https://ip.sb/
+         - name: NbDown
+          description: 度盘解析
+          url: https://down.5nb.me/         
     - name: 论坛社区
       sites:
         - name: 虎扑步行街
