@@ -47,15 +47,9 @@ content:
         - name: V2EX
           description: 技术论坛，创意工作者们的社区
           url: https://www.v2ex.com/
-        - name: JSON Editor Online
-          description: JSON 工具，可以对比两个 JSON，以及分享 JSON 片段
-          url: https://jsoneditoronline.org/
         - name: 斗鱼
           description: 直播平台
           url: https://www.douyu.com/
-        - name: 需要我帮你百度一下吗
-          description: 需要我帮你百度一下吗生成器
-          url: https://when.run/lmbdfy.html
     - name: 网盘工具
       sites:
         - name: 天翼云解析
@@ -64,9 +58,6 @@ content:
         - name: 天翼云下载
           description: 天翼云盘免登录下载
           url: https://api.ezini.vip/
-        - name: Excalidraw
-          description: 流程图工具，可以画手写风格的图表
-          url: https://excalidraw.com/
         - name: ip.sb
           description: IP 获取
           url: https://ip.sb/
@@ -143,15 +134,6 @@ content:
         - name: CodeTop
           description: 企业面试题库
           url: https://codetop.cc/#/home
-        - name: "6.824"
-          description: 著名的分布式课程
-          url: https://pdos.csail.mit.edu/6.824/index.html
-        - name: Talent Plan
-          description: Pincap 的开源学习计划，类似 6.824 课程
-          url: https://github.com/pingcap/talent-plan
-        - name: 黄简艺术工作室
-          description: 很完善的一套书法教程
-          url: http://www.chinese-artists.net/huangjian/lessons/index.html
         - name: 菜鸟教程
           description: 入门教程合集
           url: https://www.runoob.com/
